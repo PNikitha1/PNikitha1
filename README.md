@@ -43,8 +43,3 @@ To run any of my projects locally:
    git clone https://github.com/PNikitha1/your-project.git
 2. Navigate to the project directory.
 3. Install the necessary dependencies using the package manager specified in the project (e.g., npm install).
-   
-**##Connect**
-LinkedIn: https://www.linkedin.com/in/nikita-ramesh-pallapothula-403427293/
-GitHub: https://github.com/PNikitha1
-Email: nikkipallapothula596@gmail.com
