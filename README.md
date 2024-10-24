@@ -27,7 +27,7 @@ I am currently pursuing a B.Tech at Gitam University, and I have interned at top
 
 ### 4. **Food Management System**
    - Designed for ordering food in events like parties, this website streamlines food services.
-   - [View project]([https://github.com/PNikitha1/Food-Management](https://github.com/darlings777/hackthonproject))
+   - ([https://github.com/PNikitha1/Food-Management](https://github.com/darlings777/hackthonproject))
 
 ## Technologies
 - **Languages**: C, Python, Java, HTML, CSS, JavaScript
