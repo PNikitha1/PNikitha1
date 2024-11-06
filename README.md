@@ -15,19 +15,15 @@ I am currently pursuing a B.Tech at Gitam University, and I have interned at top
 ## Projects
 ### 1. **Online Book Store**
    - Deployed using AWS EC2 and S3, this platform enables users to buy books from various sellers.
-   - [View project](https://github.com/PNikitha1/Online-Book-Store)
 
 ### 2. **G-Exchange**
    - A platform for students to exchange books, encouraging resource sharing within the college.
-   - [View project](https://github.com/PNikitha1/G-Exchange)
 
 ### 3. **Health Monitoring System for Automobiles**
    - A real-time monitoring system that integrates sensors to track tire pressure, engine temperature, and fuel levels.
-   - [View project](https://github.com/PNikitha1/Auto-Health-Monitoring)
 
 ### 4. **Food Management System**
    - Designed for ordering food in events like parties, this website streamlines food services.
-   - ([https://github.com/PNikitha1/Food-Management](https://github.com/darlings777/hackthonproject))
 
 ## Technologies
 - **Languages**: C, Python, Java, HTML, CSS, JavaScript
